@@ -1,0 +1,1 @@
+print("whta man sara ssyys ")
