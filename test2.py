@@ -1,4 +1,4 @@
 print("juust a test")
-// just wana tryi this 
+// just wana tryi this //
 print("hello world")
-// pull kia hai
+// pull kia hai//
